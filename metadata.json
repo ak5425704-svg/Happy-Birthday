@@ -1,0 +1,6 @@
+{
+  "name": "The Ramsha Edition — Chapter 18",
+  "description": "A luxury dark aesthetic interactive birthday website celebrating Ramsha's 18th birthday with personal stories, permanent photo memories, and heartfelt tributes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
